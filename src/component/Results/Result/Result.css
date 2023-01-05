@@ -1,0 +1,42 @@
+.result-field {
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	position: relative;
+	background: #fff;
+/*	border: 1px solid #ddd;*/
+/*	border-radius: 10px;*/
+}
+
+.result {
+	display: flex;
+	text-align: center;
+	min-height: 50px;
+	width: 100%;
+	font-size: 1.2em;
+}
+
+.command {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+	width: 20%;
+/*	border: 1px solid #ddd;*/
+	border-radius: 10px 0px 0px 10px;
+}
+#matches .command {
+	background-color: #FFee93;
+}
+#suggestions .command {
+	background-color: #B1DFF0;
+}
+
+.description {
+	width: 80%;
+	border-radius: 0px 10px 10px 0px;
+}
+#matches .description {
+	background-color: #FFF5BA;
+}
+#suggestions .description {
+	background-color: #D5EAF9;
+}
