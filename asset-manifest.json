@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stream-sounds/static/css/main.a9d581e9.css",
+    "main.js": "/stream-sounds/static/js/main.7a81cfbd.js",
+    "index.html": "/stream-sounds/index.html",
+    "main.a9d581e9.css.map": "/stream-sounds/static/css/main.a9d581e9.css.map",
+    "main.7a81cfbd.js.map": "/stream-sounds/static/js/main.7a81cfbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d581e9.css",
+    "static/js/main.7a81cfbd.js"
+  ]
+}
